@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResTimer", "ResTimer\ResTimer.csproj", "{3390EBDB-6F50-45E1-AD1E-01C34F781A1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3390EBDB-6F50-45E1-AD1E-01C34F781A1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3390EBDB-6F50-45E1-AD1E-01C34F781A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3390EBDB-6F50-45E1-AD1E-01C34F781A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3390EBDB-6F50-45E1-AD1E-01C34F781A1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68E24158-4BC4-4D9C-A5F0-07BA8BCD6F7C}
+	EndGlobalSection
+EndGlobal

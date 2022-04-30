@@ -1,0 +1,9 @@
+C:\Users\fleon\source\repos\ResTimer\ResTimer\bin\Debug\ResTimer.exe
+C:\Users\fleon\source\repos\ResTimer\ResTimer\bin\Debug\ResTimer.pdb
+C:\Users\fleon\source\repos\ResTimer\ResTimer\obj\Debug\ResTimer.csproj.AssemblyReference.cache
+C:\Users\fleon\source\repos\ResTimer\ResTimer\obj\Debug\ResTimer.Form1.resources
+C:\Users\fleon\source\repos\ResTimer\ResTimer\obj\Debug\ResTimer.Properties.Resources.resources
+C:\Users\fleon\source\repos\ResTimer\ResTimer\obj\Debug\ResTimer.csproj.GenerateResource.cache
+C:\Users\fleon\source\repos\ResTimer\ResTimer\obj\Debug\ResTimer.csproj.CoreCompileInputs.cache
+C:\Users\fleon\source\repos\ResTimer\ResTimer\obj\Debug\ResTimer.exe
+C:\Users\fleon\source\repos\ResTimer\ResTimer\obj\Debug\ResTimer.pdb
