@@ -46,7 +46,6 @@ namespace ResTimer
             Gc();
             if (Environment.OSVersion.Platform == PlatformID.Win32NT)
             {
-
                 SetProcessWorkingSetSize32Bit(System.Diagnostics.Process.GetCurrentProcess().Handle, -1, -1);
             }
         }
